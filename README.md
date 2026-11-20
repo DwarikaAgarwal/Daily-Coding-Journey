@@ -42,4 +42,8 @@ My daily C/C++ and DSA learning journey
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
