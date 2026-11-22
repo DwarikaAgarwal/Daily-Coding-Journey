@@ -58,4 +58,8 @@ My daily C/C++ and DSA learning journey
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
