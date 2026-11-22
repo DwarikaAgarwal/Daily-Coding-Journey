@@ -1,5 +1,5 @@
 # Daily-Coding-Journey
-My daily C/C++ and DSA learning journey
+My daily DSA(in C++) learning journey
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
