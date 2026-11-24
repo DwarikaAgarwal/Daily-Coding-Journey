@@ -44,6 +44,7 @@ My daily DSA(in C++) learning journey
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -68,6 +69,7 @@ My daily DSA(in C++) learning journey
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0027-remove-element) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
