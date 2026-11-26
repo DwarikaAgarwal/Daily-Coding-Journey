@@ -54,6 +54,7 @@ My daily DSA(in C++) learning journey
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0009-palindrome-number) |
+| [3360-stone-removal-game](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/3360-stone-removal-game) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -79,4 +80,8 @@ My daily DSA(in C++) learning journey
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
