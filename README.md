@@ -45,6 +45,7 @@ My daily DSA(in C++) learning journey
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -71,6 +72,7 @@ My daily DSA(in C++) learning journey
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -84,4 +86,8 @@ My daily DSA(in C++) learning journey
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/3360-stone-removal-game) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DwarikaAgarwal/Daily-Coding-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
